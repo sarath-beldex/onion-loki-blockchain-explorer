@@ -1,4 +1,4 @@
-# Onion Loki Blockchain Explorer
+# Onion Beldex Blockchain Explorer
 
 Currently available Loki blockchain explorers have several limitations which are of 
 special importance to privacy-oriented users:
